@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+.gum
+{
+width: 1525px;
+height: 692px;
+background-image: url(../sport.jpg);
+background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.gum h1
+{
+color: white;
+
+padding-left: 665px;
+padding-top: 350px;
+font-family: 'Silkscreen', cursive;
+}
+
+
+
+
+
+.list-gum h3
+{
+color: white;
+font-family: 'Silkscreen', cursive;
+}
+
+.list-gum
+{
+width: 400px;
+height: 550px;
+
+text-align: center;
+position: absolute;
+top: 50%;
+left: 25%;
+transform: translate(-50%, -50%);
+
+outline: solid white;
+background-color: black;
+}
+
+.list-gum input
+{
+width: 370px;
+height: 25px;
+font-family: 'Silkscreen', cursive;
+
+}
+
+.list-gum button
+{
+width: 360px;
+
+background-color: rgb(0, 0, 0);
+outline: 1px solid white;
+color: aliceblue;
+font-family: 'Silkscreen', cursive;
+}
+
+.icon
+{
+width: 5px;
+height: 50px;
+
+text-align: center;
+position: absolute;
+top: 40%;
+left: 43%;
+transform: translate(-50%, -50%);
+
+}
+
